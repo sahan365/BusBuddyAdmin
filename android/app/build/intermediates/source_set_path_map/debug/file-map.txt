@@ -1,0 +1,49 @@
+com.example.flutter_application_1.app-jetified-play-services-maps-18.2.0-0 /Users/sahanaluthge/.gradle/caches/transforms-3/0069ca357093e6d8733a4ea91e067e15/transformed/jetified-play-services-maps-18.2.0/res
+com.example.flutter_application_1.app-jetified-activity-1.8.1-1 /Users/sahanaluthge/.gradle/caches/transforms-3/0c50a107065aba5a2712d3e562f8e333/transformed/jetified-activity-1.8.1/res
+com.example.flutter_application_1.app-jetified-android-maps-utils-3.6.0-2 /Users/sahanaluthge/.gradle/caches/transforms-3/19efa89ef1bd317f614214d61ee6924c/transformed/jetified-android-maps-utils-3.6.0/res
+com.example.flutter_application_1.app-jetified-window-1.2.0-3 /Users/sahanaluthge/.gradle/caches/transforms-3/2a60d9dcb6e0d3a5d7e9bdfe094d5fda/transformed/jetified-window-1.2.0/res
+com.example.flutter_application_1.app-jetified-core-1.0.0-4 /Users/sahanaluthge/.gradle/caches/transforms-3/3124c270778e193e8f0020b9523b1c79/transformed/jetified-core-1.0.0/res
+com.example.flutter_application_1.app-jetified-firebase-common-21.0.0-5 /Users/sahanaluthge/.gradle/caches/transforms-3/4dee5655fbcf5bbbca9d96d6fd882574/transformed/jetified-firebase-common-21.0.0/res
+com.example.flutter_application_1.app-jetified-lifecycle-livedata-core-ktx-2.7.0-6 /Users/sahanaluthge/.gradle/caches/transforms-3/4e36df3bf0964b88a902e6e9a0a73cd2/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.flutter_application_1.app-jetified-credentials-play-services-auth-1.2.0-rc01-7 /Users/sahanaluthge/.gradle/caches/transforms-3/4f2d96adc874cc80bbcf14bd082aba41/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/res
+com.example.flutter_application_1.app-jetified-window-java-1.2.0-8 /Users/sahanaluthge/.gradle/caches/transforms-3/5ca103fe1b2546d3d55e33d0945268b1/transformed/jetified-window-java-1.2.0/res
+com.example.flutter_application_1.app-jetified-play-services-auth-20.7.0-9 /Users/sahanaluthge/.gradle/caches/transforms-3/5eedea61af999ce7dbee016c1cc78b8a/transformed/jetified-play-services-auth-20.7.0/res
+com.example.flutter_application_1.app-jetified-lifecycle-process-2.7.0-10 /Users/sahanaluthge/.gradle/caches/transforms-3/5f1c8bf47a4fdcfa977cfc0d17a910b1/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.flutter_application_1.app-jetified-tracing-1.2.0-11 /Users/sahanaluthge/.gradle/caches/transforms-3/5f7491b5db92da51c3753a621dcb810e/transformed/jetified-tracing-1.2.0/res
+com.example.flutter_application_1.app-jetified-savedstate-1.2.1-12 /Users/sahanaluthge/.gradle/caches/transforms-3/8068c92ef77d64c993981035ea4e25ca/transformed/jetified-savedstate-1.2.1/res
+com.example.flutter_application_1.app-jetified-core-common-2.0.3-13 /Users/sahanaluthge/.gradle/caches/transforms-3/8c76de582ffb05da1a7a2f309b786aca/transformed/jetified-core-common-2.0.3/res
+com.example.flutter_application_1.app-lifecycle-livedata-2.7.0-14 /Users/sahanaluthge/.gradle/caches/transforms-3/99e49c611ae1e368de865092126a913b/transformed/lifecycle-livedata-2.7.0/res
+com.example.flutter_application_1.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-15 /Users/sahanaluthge/.gradle/caches/transforms-3/a111f8079272f010cfb3cc3601d9fcbe/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.flutter_application_1.app-jetified-play-services-basement-18.4.0-16 /Users/sahanaluthge/.gradle/caches/transforms-3/b7d9ebff73bd26448889ddb58a33be0f/transformed/jetified-play-services-basement-18.4.0/res
+com.example.flutter_application_1.app-jetified-play-services-base-18.3.0-17 /Users/sahanaluthge/.gradle/caches/transforms-3/c07043bee36b8dbdfd33be4f77cf4d33/transformed/jetified-play-services-base-18.3.0/res
+com.example.flutter_application_1.app-browser-1.4.0-18 /Users/sahanaluthge/.gradle/caches/transforms-3/c72e53c10840b541059d50b5099c341a/transformed/browser-1.4.0/res
+com.example.flutter_application_1.app-jetified-annotation-experimental-1.4.0-19 /Users/sahanaluthge/.gradle/caches/transforms-3/c794f2744802028be4961a08a096fc57/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.flutter_application_1.app-core-runtime-2.2.0-20 /Users/sahanaluthge/.gradle/caches/transforms-3/d015a9ea4e98f42693bcc84451dadcc0/transformed/core-runtime-2.2.0/res
+com.example.flutter_application_1.app-fragment-1.7.1-21 /Users/sahanaluthge/.gradle/caches/transforms-3/db2064fc7db9972ae70e8568c0f4e40b/transformed/fragment-1.7.1/res
+com.example.flutter_application_1.app-jetified-credentials-1.2.0-rc01-22 /Users/sahanaluthge/.gradle/caches/transforms-3/e30880fc717d8054947324156fa132c4/transformed/jetified-credentials-1.2.0-rc01/res
+com.example.flutter_application_1.app-lifecycle-viewmodel-2.7.0-23 /Users/sahanaluthge/.gradle/caches/transforms-3/e44ce6cde8c98421d873cc33d3988c67/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.flutter_application_1.app-lifecycle-runtime-2.7.0-24 /Users/sahanaluthge/.gradle/caches/transforms-3/e8028ea01190dd7e83f29b9e2f28e318/transformed/lifecycle-runtime-2.7.0/res
+com.example.flutter_application_1.app-core-1.13.1-25 /Users/sahanaluthge/.gradle/caches/transforms-3/ebe47be589b74018120fced07b302c54/transformed/core-1.13.1/res
+com.example.flutter_application_1.app-lifecycle-livedata-core-2.7.0-26 /Users/sahanaluthge/.gradle/caches/transforms-3/f31851d91a487a9a432dcbda2f54860b/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.flutter_application_1.app-jetified-startup-runtime-1.1.1-27 /Users/sahanaluthge/.gradle/caches/transforms-3/f3a2f3b98187b6ad0741f00855ffc974/transformed/jetified-startup-runtime-1.1.1/res
+com.example.flutter_application_1.app-jetified-profileinstaller-1.3.1-28 /Users/sahanaluthge/.gradle/caches/transforms-3/fc31752dcbc9b6fe336c00c4a61a4818/transformed/jetified-profileinstaller-1.3.1/res
+com.example.flutter_application_1.app-jetified-core-ktx-1.13.1-29 /Users/sahanaluthge/.gradle/caches/transforms-3/fe85223d2db2471ebc3a162d4f5e0e84/transformed/jetified-core-ktx-1.13.1/res
+com.example.flutter_application_1.app-packaged_res-30 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/cloud_firestore-5.6.2/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-31 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/firebase_auth-5.4.1/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-32 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/firebase_core-3.12.0/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-33 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/firebase_database-11.3.3/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-34 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-35 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/fluttertoast-8.2.10/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-36 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/geocoding_android-3.3.1/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-37 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/geolocator_android-4.6.1/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-38 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.14.12/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-39 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/location-7.0.1/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-packaged_res-40 /Users/sahanaluthge/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.6/android/build/intermediates/packaged_res/debug
+com.example.flutter_application_1.app-google-services-41 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/build/generated/res/google-services/debug
+com.example.flutter_application_1.app-pngs-42 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/build/generated/res/pngs/debug
+com.example.flutter_application_1.app-resValues-43 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/build/generated/res/resValues/debug
+com.example.flutter_application_1.app-packageDebugResources-44 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.flutter_application_1.app-packageDebugResources-45 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.flutter_application_1.app-merged_res-46 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/build/intermediates/merged_res/debug
+com.example.flutter_application_1.app-debug-47 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/src/debug/res
+com.example.flutter_application_1.app-main-48 /Users/sahanaluthge/Developer/flutter projects/admin side bus buddy/flutter_application_1/android/app/src/main/res
